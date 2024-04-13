@@ -1,0 +1,22 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("C:/Users/SHRUSHTI/OneDrive/Desktop/JavaScript/background.png");
+    background-size: cover; 
+    background-position: center; 
+    height: 100vh; 
+    margin: 0; 
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    text-align: center; 
+}
+
+h1{
+    color: cadetblue;
+    margin: 10px;
+}
+
+h2, button, p {
+    margin: 10px; 
+}
